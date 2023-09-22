@@ -1,0 +1,28 @@
+#account-form {
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 10px;
+  }
+  
+  #banking-options button {
+    background-color: blue; 
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #message {
+    margin-top: 20px;
+    padding: 10px;
+    background-color: #eee;
+  }
+  #messages {
+    color: blue;
+    padding: 10px;
+    border: 1px solid skyblue;
+  }
+  .hidden {
+    display: none; 
+  }
